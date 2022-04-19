@@ -1,21 +1,21 @@
-# Lab 7 - Infant Incubator Model and Simulator   
+# Lab 9 - Infant Incubator Model and Simulator   
 
 In this lab you will apply everything you have learned in this module on a real world application, the Infant Incubator. The Infant Incubator is designed to provide a safe, controlled space for infants to live while their vital organs develop. Unlike a simple bassinet, an incubator provides an environment that can be adjusted to provide the ideal temperature as well as the perfect amount of oxygen, humidity, and light. The developers of this project would like your team to ensure the product satisify US Government's security regulations for medical devices before the release date. As a Security Engineer Team, you are required **"Make sure we satisfiy US Government Regulations"**.
 
 
 ## Task:
 
-Now that you are able to patch the vulnerabilities when they already defined, this lab involves finding the vulnerability itself and fixing it.
+In this lab, you have to fix any 3 of the 5 vulnerabilities identified by your group in the lab 8. For each vulnerability.
 
-1. Your team is expected to find at least *one* vulnerability. Please note that this vulnerability cannot be the ones that you have already worked on in your previous labs.
-2. After identifying the vulnerability, you need to write test cases to exploit this vulnerability. At least *1* test case is expected, you are more than welcome to write more and is considered a good practice. 
-3. Finally, you need to write a patch to fix this vulnerability. 
+ 1. Please write comments mentioning the vulnerability you are working on, and your approach towards fixing this vulnearbility.  
+ 2. Write the patch to fix the vulnerability in python/bash. 
+ 3. Write a test case to verify if the vulnerability is fixed.
+
+Also, provide the brief explanations for each function you make.
 
 ## Submission
 
-1. A report which explains the vulnerability and how it could compromise the incubator. Please keep this report short ( approx 250 words ).  
-2. A python/bash file named *testcases*, containing the test cases you have used. 
-3. A python/bash file named *patch*, which will contain your fix for the vulnerability. 
+This is a group submission. Please write your code and explanations in the jupyter notebook. Submit only one notebook file per group. Title of the file should be lab9_group_<group_number>.ipynb. Good luck!
 
 ## Infant Incubator Model Explained
 Cybersecurity education lacks practicality. We know the security principles. We know the importance of cryptography and building-security-in. We know the importance of an adversarial mindset (the security mindset). We know the importance of exposing assumptions (especially implicit ones). However, how many of us know how to apply these theoretical principles in the real world? How to trade off security for the other abilities. While build in security is incomplete, we also need to plan for upgrades.
