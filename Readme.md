@@ -5,7 +5,7 @@ In this lab you will apply everything you have learned in this module on a real 
 
 ## Task:
 
-In this lab, you have to fix any 3 of the 5 vulnerabilities identified by your group in the lab 8. For each vulnerability.
+In this lab, you have to fix at least 2 of the 5 vulnerabilities identified by your group in the lab 8. For each vulnerability.
 
  1. Please write comments mentioning the vulnerability you are working on, and your approach towards fixing this vulnearbility.  
  2. Write the patch to fix the vulnerability in python/bash. 
